@@ -1,13 +1,14 @@
 # auth-api
 Authentication &amp; authorization only
 
-# stack
+# Stack
 TBD
 
-# packages
+# Packages
 - JWT
 - Bcrypt
 - dotenv
+- CORS
 
 # BD
 Redis probablemente
