@@ -15,6 +15,7 @@ Si encuentras un bug o quieres mejorar alguna funcionalidad, ¿Por qué esta sol
 - [ ] New feature (nueva funcionalidad)
 - [ ] Breaking change (cambio que puede romper la aplicación)
 - [ ] Docs (documentación)
+- [ ] Technical debt (resolución de deuda tecnica)
 
 
 # Checklist:

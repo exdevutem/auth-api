@@ -12,6 +12,7 @@ Por favor incluye una lista de los cambios. Por favor incluye contexto y motivac
 - [ ] New feature (nueva funcionalidad)
 - [ ] Breaking change (cambio que puede romper la aplicación)
 - [ ] Docs (documentación)
+- [ ] Technical debt (resolución de deuda tecnica)
 
 
 # Checklist:
