@@ -5,6 +5,7 @@ Authentication &amp; authorization only
 TBD
 
 # Packages
+- Django
 - JWT
 - Bcrypt
 - dotenv
